@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<article mdate="2011-12-13" key="journals/isca/ChebotkoSM11">
+  <author>Artem Chebotko</author>
+  <author>Yogesh Simmhan</author>
+  <author>Paolo Missier</author>
+  <title>Guest Editorial: Scientific Workflows, Provenance and Their Applications.</title>
+  <pages>130-132</pages>
+  <year>2011</year>
+  <volume>18</volume>
+  <journal>I. J. Comput. Appl.</journal>
+  <number>3</number>
+  <url>db/journals/isca/isca18.html#ChebotkoSM11</url>
+</article>
+<article mdate="2012-11-09" key="journals/ijswis/ChebotkoLAF08">
+  <author>Artem Chebotko</author>
+  <author>Shiyong Lu</author>
+  <author>Mustafa Atay</author>
+  <author>Farshad Fotouhi</author>
+  <title>Efficient Processing of RDF Queries with Nested Optional Graph Patterns in an RDBMS.</title>
+  <pages>1-30</pages>
+  <year>2008</year>
+  <volume>4</volume>
+  <journal>Int. J. Semantic Web Inf. Syst.</journal>
+  <number>4</number>
+  <ee>http://dx.doi.org/10.4018/jswis.2008100101</ee>
+  <url>db/journals/ijswis/ijswis4.html#ChebotkoLAF08</url>
+</article>
+<article mdate="2012-11-09" key="journals/ijswis/ChebotkoLFA05">
+  <author>Artem Chebotko</author>
+  <author>Yu Deng</author>
+  <author>Shiyong Lu</author>
+  <author>Farshad Fotouhi</author>
+  <author>Anthony Aristar</author>
+  <title>An Ontology-Based Multimedia Annotator for the Semantic Web of Language Engineering.</title>
+  <pages>50-67</pages>
+  <year>2005</year>
+  <volume>1</volume>
+  <journal>Int. J. Semantic Web Inf. Syst.</journal>
+  <number>1</number>
+  <url>db/journals/ijswis/ijswis1.html#ChebotkoLFA05</url>
+  <ee>http://dx.doi.org/10.4018/jswis.2005010104</ee>
+</article>
+<article mdate="2012-07-03" key="journals/isf/ChebotkoCLF12">
+  <author>Artem Chebotko</author>
+  <author>Seunghan Chang</author>
+  <author>Shiyong Lu</author>
+  <author>Farshad Fotouhi</author>
+  <title>Secure XML querying based on authorization graphs.</title>
+  <pages>617-632</pages>
+  <year>2012</year>
+  <volume>14</volume>
+  <journal>Information Systems Frontiers</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1007/s10796-010-9289-2</ee>
+  <url>db/journals/isf/isf14.html#ChebotkoCLF12</url>
+</article>
+<article mdate="2011-04-11" key="journals/fgcs/LimLCF11">
+  <author>Chunhyeok Lim</author>
+  <author>Shiyong Lu</author>
+  <author>Artem Chebotko</author>
+  <author>Farshad Fotouhi</author>
+  <title>Storing, reasoning, and querying OPM-compliant scientific workflow provenance using relational databases.</title>
+  <pages>781-789</pages>
+  <year>2011</year>
+  <volume>27</volume>
+  <journal>Future Generation Comp. Syst.</journal>
+  <number>6</number>
+  <ee>http://dx.doi.org/10.1016/j.future.2010.10.013</ee>
+  <url>db/journals/fgcs/fgcs27.html#LimLCF11</url>
+</article>
+<article mdate="2009-09-09" key="journals/fgcs/WangLFCBR09">
+  <author>Liqiang Wang</author>
+  <author>Shiyong Lu</author>
+  <author>Xubo Fei</author>
+  <author>Artem Chebotko</author>
+  <author>H. Victoria Bryant</author>
+  <author>Jeffrey L. Ram</author>
+  <title>Atomicity and provenance support for pipelined scientific workflows.</title>
+  <pages>568-576</pages>
+  <year>2009</year>
+  <volume>25</volume>
+  <journal>Future Generation Comp. Syst.</journal>
+  <number>5</number>
+  <ee>http://dx.doi.org/10.1016/j.future.2008.06.007</ee>
+  <url>db/journals/fgcs/fgcs25.html#WangLFCBR09</url>
+</article>
+<article mdate="2009-09-03" key="journals/dke/ChebotkoLF09">
+  <author>Artem Chebotko</author>
+  <author>Shiyong Lu</author>
+  <author>Farshad Fotouhi</author>
+  <title>Semantics preserving SPARQL-to-SQL translation.</title>
+  <pages>973-1000</pages>
+  <year>2009</year>
+  <volume>68</volume>
+  <journal>Data Knowl. Eng.</journal>
+  <number>10</number>
+  <ee>http://dx.doi.org/10.1016/j.datak.2009.04.001</ee>
+  <url>db/journals/dke/dke68.html#ChebotkoLF09</url>
+</article>
+<article mdate="2010-09-07" key="journals/dke/ChebotkoLFF10">
+  <author>Artem Chebotko</author>
+  <author>Shiyong Lu</author>
+  <author>Xubo Fei</author>
+  <author>Farshad Fotouhi</author>
+  <title>RDFProv: A relational RDF store for querying and managing scientific workflow provenance.</title>
+  <pages>836-865</pages>
+  <year>2010</year>
+  <volume>69</volume>
+  <journal>Data Knowl. Eng.</journal>
+  <number>8</number>
+  <ee>http://dx.doi.org/10.1016/j.datak.2010.03.005</ee>
+  <url>db/journals/dke/dke69.html#ChebotkoLFF10</url>
+</article>
+<article mdate="2007-05-09" key="journals/dke/ChebotkoALF07">
+  <author>Artem Chebotko</author>
+  <author>Mustafa Atay</author>
+  <author>Shiyong Lu</author>
+  <author>Farshad Fotouhi</author>
+  <title>XML subtree reconstruction from relational storage of XML documents.</title>
+  <pages>199-218</pages>
+  <year>2007</year>
+  <volume>62</volume>
+  <journal>Data Knowl. Eng.</journal>
+  <number>2</number>
+  <ee>http://dx.doi.org/10.1016/j.datak.2006.08.002</ee>
+  <url>db/journals/dke/dke62.html#ChebotkoALF07</url>
+</article>
+<article mdate="2013-05-31" key="journals/itpro/FrankeMCAB13">
+  <author>Craig Franke</author>
+  <author>Samuel Morin</author>
+  <author>Artem Chebotko</author>
+  <author>John Abraham</author>
+  <author>Pearl Brazier</author>
+  <title>Efficient Processing of Semantic Web Queries in HBase and MySQL Cluster.</title>
+  <pages>36-43</pages>
+  <year>2013</year>
+  <volume>15</volume>
+  <journal>IT Professional</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1109/MITP.2012.42</ee>
+  <url>db/journals/itpro/itpro15.html#FrankeMCAB13</url>
+</article>
+<article mdate="2011-12-05" key="journals/corr/abs-1105-2264" publtype="informal publication">
+  <author>Craig Franke</author>
+  <author>Samuel Morin</author>
+  <author>Artem Chebotko</author>
+  <author>John Abraham</author>
+  <author>Pearl Brazier</author>
+  <title>Distributed Semantic Web Data Management in HBase and MySQL Cluster</title>
+  <ee>http://arxiv.org/abs/1105.2264</ee>
+  <year>2011</year>
+  <journal>CoRR</journal>
+  <volume>abs/1105.2264</volume>
+  <url>db/journals/corr/corr1105.html#abs-1105-2264</url>
+</article>
+<article mdate="2011-12-05" key="journals/corr/abs-0902-3026" publtype="informal publication">
+  <author>Artem Chebotko</author>
+  <author>Yu Deng</author>
+  <author>Shiyong Lu</author>
+  <author>Farshad Fotouhi</author>
+  <author>Anthony Aristar</author>
+  <author>Hennie Brugman</author>
+  <author>Alexander Klassmann</author>
+  <author>Han Sloetjes</author>
+  <author>Albert Russel</author>
+  <author>Peter Wittenburg</author>
+  <title>OntoELAN: An Ontology-based Linguistic Multimedia Annotator</title>
+  <ee>http://arxiv.org/abs/0902.3026</ee>
+  <year>2009</year>
+  <journal>CoRR</journal>
+  <volume>abs/0902.3026</volume>
+  <url>db/journals/corr/corr0902.html#abs-0902-3026</url>
+</article>
+<article mdate="2011-12-05" key="journals/corr/abs-0902-2953" publtype="informal publication">
+  <author>Shiyong Lu</author>
+  <author>Rong Huang</author>
+  <author>Artem Chebotko</author>
+  <author>Yu Deng</author>
+  <author>Farshad Fotouhi</author>
+  <title>ImageSpace: An Environment for Image Ontology Management</title>
+  <ee>http://arxiv.org/abs/0902.2953</ee>
+  <year>2009</year>
+  <journal>CoRR</journal>
+  <volume>abs/0902.2953</volume>
+  <url>db/journals/corr/corr0902.html#abs-0902-2953</url>
+</article>
+<article mdate="2011-12-05" key="journals/corr/abs-1007-2671" publtype="informal publication">
+  <author>Artem Chebotko</author>
+  <author>Bin Fu</author>
+  <title>XML Reconstruction View Selection in XML Databases: Complexity Analysis and Approximation Scheme</title>
+  <ee>http://arxiv.org/abs/1007.2671</ee>
+  <year>2010</year>
+  <journal>CoRR</journal>
+  <volume>abs/1007.2671</volume>
+  <url>db/journals/corr/corr1007.html#abs-1007-2671</url>
+</article>
+<article mdate="2011-12-05" key="journals/corr/abs-0902-3027" publtype="informal publication">
+  <author>Artem Chebotko</author>
+  <author>Shiyong Lu</author>
+  <author>Farshad Fotouhi</author>
+  <author>Anthony Aristar</author>
+  <title>Ontology-Based Annotation of Multimedia Language Data for the Semantic Web</title>
+  <ee>http://arxiv.org/abs/0902.3027</ee>
+  <year>2009</year>
+  <journal>CoRR</journal>
+  <volume>abs/0902.3027</volume>
+  <url>db/journals/corr/corr0902.html#abs-0902-3027</url>
+</article>
+<article mdate="2007-02-15" key="journals/is/AtayCLLF07">
+  <author>Mustafa Atay</author>
+  <author>Artem Chebotko</author>
+  <author>Dapeng Liu</author>
+  <author>Shiyong Lu</author>
+  <author>Farshad Fotouhi</author>
+  <title>Efficient schema-based XML-to-Relational data mapping.</title>
+  <pages>458-476</pages>
+  <year>2007</year>
+  <volume>32</volume>
+  <journal>Inf. Syst.</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1016/j.is.2005.12.008</ee>
+  <url>db/journals/is/is32.html#AtayCLLF07</url>
+</article>
+<article mdate="2011-11-07" key="journals/tsc/LinLFCPLFH09">
+  <author>Cui Lin</author>
+  <author>Shiyong Lu</author>
+  <author>Xubo Fei</author>
+  <author>Artem Chebotko</author>
+  <author>Darshan Pai</author>
+  <author>Zhaoqiang Lai</author>
+  <author>Farshad Fotouhi</author>
+  <author>Jing Hua</author>
+  <title>A Reference Architecture for Scientific Workflow Management Systems and the VIEW SOA Solution.</title>
+  <pages>79-92</pages>
+  <year>2009</year>
+  <volume>2</volume>
+  <journal>IEEE T. Services Computing</journal>
+  <number>1</number>
+  <ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2009.4</ee>
+  <url>db/journals/tsc/tsc2.html#LinLFCPLFH09</url>
+</article>
+<article mdate="2011-11-07" key="journals/tsc/ChebotkoLCFY10">
+  <author>Artem Chebotko</author>
+  <author>Shiyong Lu</author>
+  <author>Seunghan Chang</author>
+  <author>Farshad Fotouhi</author>
+  <author>Ping Yang</author>
+  <title>Secure Abstraction Views for Scientific Workflow Provenance Querying.</title>
+  <pages>322-337</pages>
+  <year>2010</year>
+  <volume>3</volume>
+  <journal>IEEE T. Services Computing</journal>
+  <number>4</number>
+  <ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2010.38</ee>
+  <url>db/journals/tsc/tsc3.html#ChebotkoLCFY10</url>
+</article>
+<article mdate="2012-06-19" key="journals/taasm/AbrahamD07">
+  <author>John Abraham</author>
+  <author>Courtney Davis</author>
+  <title>Interpellative Sociology of Pharmaceuticals: Problems and Challenges for Innovation and Regulation in the 21st Century.</title>
+  <pages>387-402</pages>
+  <year>2007</year>
+  <volume>19</volume>
+  <journal>Techn. Analysis &amp; Strat. Manag.</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1080/09537320701281607</ee>
+  <url>db/journals/taasm/taasm19.html#AbrahamD07</url>
+</article>
+<article mdate="2010-10-06" key="journals/jco/ChenFA10">
+  <author>Zhixiang Chen</author>
+  <author>Bin Fu</author>
+  <author>John Abraham</author>
+  <title>A quadratic lower bound for Rocchio's similarity-based relevance feedback algorithm with a fixed query updating factor.</title>
+  <pages>134-157</pages>
+  <year>2010</year>
+  <volume>19</volume>
+  <journal>J. Comb. Optim.</journal>
+  <number>2</number>
+  <ee>http://dx.doi.org/10.1007/s10878-008-9169-6</ee>
+  <url>db/journals/jco/jco19.html#ChenFA10</url>
+</article>
+<article mdate="2013-07-05" key="journals/jcphy/PremnathA07">
+  <author>Kannan N. Premnath</author>
+  <author>John Abraham</author>
+  <title>Three-dimensional multi-relaxation time (MRT) lattice-Boltzmann models for multiphase flow.</title>
+  <pages>539-559</pages>
+  <year>2007</year>
+  <volume>224</volume>
+  <journal>J. Comput. Physics</journal>
+  <number>2</number>
+  <ee>http://dx.doi.org/10.1016/j.jcp.2006.10.023</ee>
+  <url>db/journals/jcphy/jcphy224.html#PremnathA07</url>
+</article>
+<article mdate="2013-05-31" key="journals/itpro/FrankeMCAB13">
+  <author>Craig Franke</author>
+  <author>Samuel Morin</author>
+  <author>Artem Chebotko</author>
+  <author>John Abraham</author>
+  <author>Pearl Brazier</author>
+  <title>Efficient Processing of Semantic Web Queries in HBase and MySQL Cluster.</title>
+  <pages>36-43</pages>
+  <year>2013</year>
+  <volume>15</volume>
+  <journal>IT Professional</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1109/MITP.2012.42</ee>
+  <url>db/journals/itpro/itpro15.html#FrankeMCAB13</url>
+</article>
+<article mdate="2011-12-05" key="journals/corr/abs-1105-2264" publtype="informal publication">
+  <author>Craig Franke</author>
+  <author>Samuel Morin</author>
+  <author>Artem Chebotko</author>
+  <author>John Abraham</author>
+  <author>Pearl Brazier</author>
+  <title>Distributed Semantic Web Data Management in HBase and MySQL Cluster</title>
+  <ee>http://arxiv.org/abs/1105.2264</ee>
+  <year>2011</year>
+  <journal>CoRR</journal>
+  <volume>abs/1105.2264</volume>
+  <url>db/journals/corr/corr1105.html#abs-1105-2264</url>
+</article>
+<article mdate="2011-08-15" key="journals/jetai/KlenkFTK11">
+  <author>Matthew Klenk</author>
+  <author>Kenneth D. Forbus</author>
+  <author>Emmett Tomai</author>
+  <author>Hyeonkyeong Kim</author>
+  <title>Using analogical model formulation with sketches to solve Bennett Mechanical Comprehension Test problems.</title>
+  <pages>299-327</pages>
+  <year>2011</year>
+  <volume>23</volume>
+  <journal>J. Exp. Theor. Artif. Intell.</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1080/0952813X.2010.502312</ee>
+  <url>db/journals/jetai/jetai23.html#KlenkFTK11</url>
+</article>
+<article mdate="2010-11-15" key="journals/cogsci/LovettTFU09">
+  <author>Andrew Lovett</author>
+  <author>Emmett Tomai</author>
+  <author>Kenneth D. Forbus</author>
+  <author>Jeffrey M. Usher</author>
+  <title>Solving Geometric Analogy Problems Through Two-Stage Analogical Mapping.</title>
+  <pages>1192-1231</pages>
+  <year>2009</year>
+  <volume>33</volume>
+  <journal>Cognitive Science</journal>
+  <number>7</number>
+  <ee>http://dx.doi.org/10.1111/j.1551-6709.2009.01052.x</ee>
+  <url>db/journals/cogsci/cogsci33.html#LovettTFU09</url>
+</article>
+<article mdate="2013-03-07" key="journals/aim/ElsonRSST12">
+  <author>David K. Elson</author>
+  <author>Jonathan Rowe</author>
+  <author>Adam M. Smith</author>
+  <author>Gillian Smith</author>
+  <author>Emmett Tomai</author>
+  <title>Reports on the Fourth Artificial Intelligence for Interactive Digital Entertainment Conference Workshops.</title>
+  <year>2012</year>
+  <volume>33</volume>
+  <journal>AI Magazine</journal>
+  <number>1</number>
+  <ee>http://www.aaai.org/ojs/index.php/aimagazine/article/view/2393</ee>
+  <url>db/journals/aim/aim33.html#ElsonRSST12</url>
+</article>
+<article mdate="2012-02-15" key="journals/jetai/Bylander91">
+  <author>Tom Bylander</author>
+  <title>Tractability and artificial intelligence.</title>
+  <pages>171-178</pages>
+  <year>1991</year>
+  <volume>3</volume>
+  <journal>J. Exp. Theor. Artif. Intell.</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1080/09528139108915289</ee>
+  <url>db/journals/jetai/jetai3.html#Bylander91</url>
+</article>
+<article mdate="2010-05-21" key="journals/jetai/Bylander10">
+  <author>Tom Bylander</author>
+  <title>Transforming examples for multiclass boosting.</title>
+  <pages>53-65</pages>
+  <year>2010</year>
+  <volume>22</volume>
+  <journal>J. Exp. Theor. Artif. Intell.</journal>
+  <number>1</number>
+  <ee>http://dx.doi.org/10.1080/09528130902823680</ee>
+  <url>db/journals/jetai/jetai22.html#Bylander10</url>
+</article>
+<article mdate="2012-03-27" key="journals/artmed/Bylander90">
+  <author>Tom Bylander</author>
+  <title>Some causal models are deeper than others.</title>
+  <pages>123-128</pages>
+  <year>1990</year>
+  <volume>2</volume>
+  <journal>Artificial Intelligence in Medicine</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1016/0933-3657(90)90042-P</ee>
+  <url>db/journals/artmed/artmed2.html#Bylander90</url>
+</article>
+<article mdate="2011-06-27" key="journals/ijmms/Bylander91">
+  <author>Tom Bylander</author>
+  <title>A Theory of Consolidation for Reasoning about Devices.</title>
+  <pages>467-489</pages>
+  <year>1991</year>
+  <volume>35</volume>
+  <journal>International Journal of Man-Machine Studies</journal>
+  <number>4</number>
+  <url>db/journals/ijmms/ijmms35.html#Bylander91</url>
+  <ee>http://dx.doi.org/10.1016/S0020-7373(05)80088-4</ee>
+</article>
+<article mdate="2011-06-27" key="journals/ijmms/BylanderC87">
+  <author>Tom Bylander</author>
+  <author>B. Chandrasekaran</author>
+  <title>Generic Tasks for Knowledge-Based Reasoning: The "Right" Level of Abstraction for Knowledge Acquisition.</title>
+  <pages>231-243</pages>
+  <year>1987</year>
+  <volume>26</volume>
+  <journal>International Journal of Man-Machine Studies</journal>
+  <number>2</number>
+  <url>db/journals/ijmms/ijmms26.html#BylanderC87</url>
+  <ee>http://dx.doi.org/10.1016/S0020-7373(87)80093-7</ee>
+</article>
+<article mdate="2011-07-12" key="journals/ijswis/OHaraB11">
+  <author>Steven O'Hara</author>
+  <author>Tom Bylander</author>
+  <title>Numeric Query Answering on the Web.</title>
+  <pages>1-17</pages>
+  <year>2011</year>
+  <volume>7</volume>
+  <journal>Int. J. Semantic Web Inf. Syst.</journal>
+  <number>1</number>
+  <ee>http://dx.doi.org/10.4018/jswis.2011010101</ee>
+  <url>db/journals/ijswis/ijswis7.html#OHaraB11</url>
+</article>
+<article mdate="2011-11-07" key="journals/pami/GoelB89">
+  <author>Ashok K. Goel</author>
+  <author>Tom Bylander</author>
+  <title>Computational Feasibility of Structured Matching.</title>
+  <pages>1312-1316</pages>
+  <year>1989</year>
+  <volume>11</volume>
+  <journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+  <number>12</number>
+  <ee>http://doi.ieeecomputersociety.org/10.1109/34.41369</ee>
+  <url>db/journals/pami/pami11.html#GoelB89</url>
+</article>
+<article mdate="2004-04-27" key="journals/ipm/BelkinBBCDDFIRJTW87">
+  <author>Nicholas J. Belkin</author>
+  <author>Christine L. Borgman</author>
+  <author>Helen M. Brooks</author>
+  <author>Tom Bylander</author>
+  <author>W. Bruce Croft</author>
+  <author>Penny J. Daniels</author>
+  <author>Scott C. Deerwester</author>
+  <author>Edward A. Fox</author>
+  <author>Peter Ingwersen</author>
+  <author>Roy Rada</author>
+  <title>Distributed Expert-Based Information Systems: An Interdisciplinary Approach.</title>
+  <pages>395-409</pages>
+  <year>1987</year>
+  <volume>23</volume>
+  <journal>Inf. Process. Manage.</journal>
+  <number>5</number>
+  <url>db/journals/ipm/ipm23.html#BelkinBBCDDFIRJTW87</url>
+  <ee>http://dx.doi.org/10.1016/0306-4573(87)90109-9</ee>
+</article>
+<article mdate="2011-05-26" key="journals/ml/Bylander02">
+  <author>Tom Bylander</author>
+  <title>Estimating Generalization Error on Two-Class Datasets Using Out-of-Bag Estimates.</title>
+  <pages>287-297</pages>
+  <year>2002</year>
+  <volume>48</volume>
+  <journal>Machine Learning</journal>
+  <number>1-3</number>
+  <url>db/journals/ml/ml48.html#Bylander02</url>
+  <ee>http://dx.doi.org/10.1023/A:1013964023376</ee>
+</article>
+<article mdate="2011-01-31" key="journals/aai/HirschSBWS89">
+  <author>David E. Hirsch</author>
+  <author>Sheldon R. Simon</author>
+  <author>Tom Bylander</author>
+  <author>Michael A. Weintraub</author>
+  <author>Peter Szolovits</author>
+  <title>Using causal reasoning in gait analysis.</title>
+  <pages>337-356</pages>
+  <year>1989</year>
+  <volume>3</volume>
+  <journal>Applied Artificial Intelligence</journal>
+  <number>2-3</number>
+  <url>db/journals/aai/aai3.html#HirschSBWS89</url>
+  <ee>http://dx.doi.org/10.1080/08839518908949930</ee>
+</article>
+<article mdate="2013-06-26" key="journals/tsmc/Bylander88">
+  <author>Tom Bylander</author>
+  <title>A critique of qualitative simulation from a consolidation viewpoint.</title>
+  <pages>252-263</pages>
+  <year>1988</year>
+  <volume>18</volume>
+  <journal>IEEE Transactions on Systems, Man, and Cybernetics</journal>
+  <number>2</number>
+  <ee>http://dx.doi.org/10.1109/21.3464</ee>
+  <url>db/journals/tsmc/tsmc18.html#Bylander88</url>
+</article>
+<article mdate="2003-11-19" key="journals/ai/Bylander96">
+  <author>Tom Bylander</author>
+  <title>A Probabilistic Analysis of Propositional STRIPS Planning.</title>
+  <pages>241-271</pages>
+  <year>1996</year>
+  <volume>81</volume>
+  <journal>Artif. Intell.</journal>
+  <number>1-2</number>
+  <url>db/journals/ai/ai81.html#Bylander96</url>
+  <ee>http://dx.doi.org/10.1016/0004-3702(95)00055-0</ee>
+</article>
+<article mdate="2011-06-30" key="journals/ai/BylanderATJ91">
+  <author>Tom Bylander</author>
+  <author>Dean Allemang</author>
+  <author>Michael C. Tanner</author>
+  <author>John R. Josephson</author>
+  <title>The Computational Complexity of Abduction.</title>
+  <pages>25-60</pages>
+  <year>1991</year>
+  <volume>49</volume>
+  <journal>Artif. Intell.</journal>
+  <number>1-3</number>
+  <url>db/journals/ai/ai49.html#BylanderATJ91</url>
+  <ee>http://dx.doi.org/10.1016/0004-3702(91)90005-5</ee>
+</article>
+<article mdate="2011-06-30" key="journals/ai/Bylander94">
+  <author>Tom Bylander</author>
+  <title>The Computational Complexity of Propositional STRIPS Planning.</title>
+  <pages>165-204</pages>
+  <year>1994</year>
+  <volume>69</volume>
+  <journal>Artif. Intell.</journal>
+  <number>1-2</number>
+  <url>db/journals/ai/ai69.html#Bylander94</url>
+  <ee>http://dx.doi.org/10.1016/0004-3702(94)90081-7</ee>
+</article>
+<article mdate="2003-11-19" key="journals/ai/Bylander98">
+  <author>Tom Bylander</author>
+  <title>Worst-Case Analysis of the Perceptron and Exponentiated Update Algorithms.</title>
+  <pages>335-352</pages>
+  <year>1998</year>
+  <volume>106</volume>
+  <journal>Artif. Intell.</journal>
+  <number>2</number>
+  <url>db/journals/ai/ai106.html#Bylander98</url>
+  <ee>http://dx.doi.org/10.1016/S0004-3702(98)00098-8</ee>
+</article>
+<article mdate="2010-12-29" key="journals/aim/ChandrasekaranB85">
+  <author>B. Chandrasekaran</author>
+  <author>Tom Bylander</author>
+  <title>Artificial Intelligence Research at The Ohio State University.</title>
+  <pages>74-79</pages>
+  <year>1985</year>
+  <volume>6</volume>
+  <journal>AI Magazine</journal>
+  <number>2</number>
+  <url>db/journals/aim/aim6.html#ChandrasekaranB85</url>
+  <ee>http://www.aaai.org/ojs/index.php/aimagazine/article/view/483</ee>
+</article>
+<article mdate="2010-12-29" key="journals/aim/HendlerCAABD88">
+  <author>James A. Hendler</author>
+  <author>Balakrishnan Chandrasekaran</author>
+  <author>Beth Adelson</author>
+  <author>Richard Alterman</author>
+  <author>Tom Bylander</author>
+  <author>Michael Dyer</author>
+  <title>Theoretical Issues in Conceptual Information Processing.</title>
+  <pages>71-76</pages>
+  <year>1988</year>
+  <volume>9</volume>
+  <journal>AI Magazine</journal>
+  <number>4</number>
+  <url>db/journals/aim/aim9.html#HendlerCAABD88</url>
+  <ee>http://www.aaai.org/ojs/index.php/aimagazine/article/view/956</ee>
+</article>
+<article mdate="2010-12-29" key="journals/aim/BylanderM86">
+  <author>Tom Bylander</author>
+  <author>Sanjay Mittal</author>
+  <title>CRSL: A Language for Classificatory Problem Solving and Uncertainty Handling.</title>
+  <pages>66-77</pages>
+  <year>1986</year>
+  <volume>7</volume>
+  <journal>AI Magazine</journal>
+  <number>3</number>
+  <url>db/journals/aim/aim7.html#BylanderM86</url>
+  <ee>http://www.aaai.org/ojs/index.php/aimagazine/article/view/549</ee>
+</article>
+<article mdate="2003-10-29" key="journals/expert/GoelBCDKT91">
+  <author>Ashok K. Goel</author>
+  <author>Tom Bylander</author>
+  <author>B. Chandrasekaran</author>
+  <author>Thomas G. Dietterich</author>
+  <author>Richard M. Keller</author>
+  <author>Chris Tong</author>
+  <title>Knowledge Compilation: A Symposium.</title>
+  <pages>71-93</pages>
+  <year>1991</year>
+  <volume>6</volume>
+  <journal>IEEE Expert</journal>
+  <number>2</number>
+  <ee>http://csdl2.computer.org/dl/mags/ex/1991/02/x2071.pdf</ee>
+  <url>db/journals/expert/expert6.html#GoelBCDKT91</url>
+</article>
+<article mdate="2007-12-19" key="journals/ijsn/KorkmazGSD07">
+  <author>Turgay Korkmaz</author>
+  <author>Chao Gong</author>
+  <author>Kamil Saraç</author>
+  <author>Sandra G. Dykes</author>
+  <title>Single packet IP traceback in AS-level partial deployment scenario.</title>
+  <pages>95-108</pages>
+  <year>2007</year>
+  <volume>2</volume>
+  <journal>IJSN</journal>
+  <number>1/2</number>
+  <ee>http://dx.doi.org/10.1504/IJSN.2007.012828</ee>
+  <url>db/journals/ijsn/ijsn2.html#KorkmazGSD07</url>
+</article>
+<article mdate="2003-11-28" key="journals/tomacs/KorkmazK00">
+  <author>Turgay Korkmaz</author>
+  <author>Marwan Krunz</author>
+  <title>Source-oriented topology aggregation with multiple QoS parameters in hierarchical networks.</title>
+  <pages>295-325</pages>
+  <year>2000</year>
+  <volume>10</volume>
+  <journal>ACM Trans. Model. Comput. Simul.</journal>
+  <number>4</number>
+  <ee>http://doi.acm.org/10.1145/369534.369542</ee>
+  <url>db/journals/tomacs/tomacs10.html#KorkmazK00</url>
+</article>
+<article mdate="2007-11-02" key="journals/comcom/ZhengKD07">
+  <author>Yanxing Zheng</author>
+  <author>Turgay Korkmaz</author>
+  <author>Wenhua Dou</author>
+  <title>Two additive-constrained path selection in the presence of inaccurate state information.</title>
+  <pages>2096-2112</pages>
+  <year>2007</year>
+  <volume>30</volume>
+  <journal>Computer Communications</journal>
+  <number>9</number>
+  <ee>http://dx.doi.org/10.1016/j.comcom.2007.04.020</ee>
+  <url>db/journals/comcom/comcom30.html#ZhengKD07</url>
+</article>
+<article mdate="2003-12-12" key="journals/comcom/KorkmazKT02">
+  <author>Turgay Korkmaz</author>
+  <author>Marwan Krunz</author>
+  <author>Spyros Tragoudas</author>
+  <title>An efficient algorithm for finding a path subject to two additive constraints.</title>
+  <pages>225-238</pages>
+  <year>2002</year>
+  <volume>25</volume>
+  <journal>Computer Communications</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1016/S0140-3664(01)00358-9</ee>
+  <url>db/journals/comcom/comcom25.html#KorkmazKT02</url>
+</article>
+<article mdate="2013-08-28" key="journals/icl/FengK13">
+  <author>Gang Feng</author>
+  <author>Turgay Korkmaz</author>
+  <title>A Fast Hybrid ε-Approximation Algorithm for Computing Constrained Shortest Paths.</title>
+  <pages>1471-1474</pages>
+  <year>2013</year>
+  <volume>17</volume>
+  <journal>IEEE Communications Letters</journal>
+  <number>7</number>
+  <ee>http://dx.doi.org/10.1109/LCOMM.2013.052413.130811</ee>
+  <url>db/journals/icl/icl17.html#FengK13</url>
+</article>
+<article mdate="2011-06-08" key="journals/chinaf/CuiZKZ10">
+  <author>Yong Cui</author>
+  <author>Youjian Zhao</author>
+  <author>Turgay Korkmaz</author>
+  <author>Tielei Zhang</author>
+  <title>Supporting multiple metrics in QoS-aware BGP.</title>
+  <pages>1947-1962</pages>
+  <year>2010</year>
+  <volume>53</volume>
+  <journal>SCIENCE CHINA Information Sciences</journal>
+  <number>10</number>
+  <ee>http://dx.doi.org/10.1007/s11432-010-4066-x</ee>
+  <url>db/journals/chinaf/chinaf53.html#CuiZKZ10</url>
+</article>
+<article mdate="2011-11-03" key="journals/ton/KorkmazK03">
+  <author>Turgay Korkmaz</author>
+  <author>Marwan Krunz</author>
+  <title>Bandwidth-delay constrained path selection under inaccurate state information.</title>
+  <pages>384-398</pages>
+  <year>2003</year>
+  <volume>11</volume>
+  <journal>IEEE/ACM Trans. Netw.</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1109/TNET.2003.813047</ee>
+  <url>db/journals/ton/ton11.html#KorkmazK03</url>
+</article>
+<article mdate="2007-01-24" key="journals/cn/ZhengKDT06">
+  <author>Yanxing Zheng</author>
+  <author>Turgay Korkmaz</author>
+  <author>Wenhua Dou</author>
+  <author>Jing Tian</author>
+  <title>Highly responsive and efficient QoS routing using pre- and on-demand computations along with a new normal measure.</title>
+  <pages>3743-3762</pages>
+  <year>2006</year>
+  <volume>50</volume>
+  <journal>Computer Networks</journal>
+  <number>18</number>
+  <ee>http://dx.doi.org/10.1016/j.comnet.2006.04.006</ee>
+  <url>db/journals/cn/cn50.html#ZhengKDT06</url>
+</article>
+<article mdate="2007-09-21" key="journals/cn/GunesBSK07">
+  <author>Mehmet Hadi Gunes</author>
+  <author>Sevcan Bilir</author>
+  <author>Kamil Saraç</author>
+  <author>Turgay Korkmaz</author>
+  <title>A measurement study on overhead distribution of value-added internet services.</title>
+  <pages>4153-4173</pages>
+  <year>2007</year>
+  <volume>51</volume>
+  <journal>Computer Networks</journal>
+  <number>14</number>
+  <ee>http://dx.doi.org/10.1016/j.comnet.2007.05.001</ee>
+  <url>db/journals/cn/cn51.html#GunesBSK07</url>
+</article>
+<article mdate="2003-03-17" key="journals/cn/KorkmazK01">
+  <author>Turgay Korkmaz</author>
+  <author>Marwan Krunz</author>
+  <title>A randomized algorithm for finding a path subject to multiple QoS requirements.</title>
+  <pages>251-268</pages>
+  <year>2001</year>
+  <volume>36</volume>
+  <journal>Computer Networks</journal>
+  <number>2/3</number>
+  <url>db/journals/cn/cn36.html#KorkmazK01</url>
+  <ee>http://dx.doi.org/10.1016/S1389-1286(00)00209-7</ee>
+</article>
+<article mdate="2007-01-24" key="journals/cn/AhujaKK06">
+  <author>Satyajeet Ahuja</author>
+  <author>Marwan Krunz</author>
+  <author>Turgay Korkmaz</author>
+  <title>Optimal path selection for minimizing the differential delay in Ethernet-over-SONET.</title>
+  <pages>2349-2363</pages>
+  <year>2006</year>
+  <volume>50</volume>
+  <journal>Computer Networks</journal>
+  <number>13</number>
+  <ee>http://dx.doi.org/10.1016/j.comnet.2005.09.034</ee>
+  <url>db/journals/cn/cn50.html#AhujaKK06</url>
+</article>
+<article mdate="2005-05-11" key="journals/cn/KorkmazKG04">
+  <author>Turgay Korkmaz</author>
+  <author>Marwan Krunz</author>
+  <author>Jyothi Guntaka</author>
+  <title>OSPF-based hybrid approach for scalable dissemination of QoS parameters.</title>
+  <pages>273-293</pages>
+  <year>2004</year>
+  <volume>46</volume>
+  <journal>Computer Networks</journal>
+  <number>2</number>
+  <ee>http://dx.doi.org/10.1016/j.comnet.2004.03.034</ee>
+  <url>db/journals/cn/cn46.html#KorkmazKG04</url>
+</article>
+<article mdate="2006-08-21" key="journals/tmm/KorkmazK03">
+  <author>Turgay Korkmaz</author>
+  <author>Marwan Krunz</author>
+  <title>Routing multimedia traffic with QoS guarantees.</title>
+  <pages>429-443</pages>
+  <year>2003</year>
+  <volume>5</volume>
+  <journal>IEEE Transactions on Multimedia</journal>
+  <number>3</number>
+  <ee>http://doi.ieeecomputersociety.org/10.1109/TMM.2003.811627</ee>
+  <url>db/journals/tmm/tmm5.html#KorkmazK03</url>
+</article>
+<article mdate="2012-03-13" key="journals/ejwcn/AkbaniK11">
+  <author>Rehan Akbani</author>
+  <author>Turgay Korkmaz</author>
+  <title>Enhancing role-based trust management with a reputation system for MANETs.</title>
+  <pages>90</pages>
+  <year>2011</year>
+  <volume>2011</volume>
+  <journal>EURASIP J. Wireless Comm. and Networking</journal>
+  <ee>http://dx.doi.org/10.1186/1687-1499-2011-90</ee>
+  <url>db/journals/ejwcn/ejwcn2011.html#AkbaniK11</url>
+</article>
+<article mdate="2009-04-17" key="journals/network/KuipersKKM04">
+  <author>Fernando A. Kuipers</author>
+  <author>Turgay Korkmaz</author>
+  <author>Marwan Krunz</author>
+  <author>Piet Van Mieghem</author>
+  <title>Performance evaluation of constraint-based path selection algorithms.</title>
+  <pages>16-23</pages>
+  <year>2004</year>
+  <volume>18</volume>
+  <journal>IEEE Network</journal>
+  <number>5</number>
+  <ee>http://dx.doi.org/10.1109/MNET.2004.1337731</ee>
+  <url>db/journals/network/network18.html#KuipersKKM04</url>
+</article>
+<article mdate="2012-01-03" key="journals/adhoc/AkbaniKR12">
+  <author>Rehan Akbani</author>
+  <author>Turgay Korkmaz</author>
+  <author>G. V. S. Raju</author>
+  <title>EMLTrust: An enhanced Machine Learning based Reputation System for MANETs.</title>
+  <pages>435-457</pages>
+  <year>2012</year>
+  <volume>10</volume>
+  <journal>Ad Hoc Networks</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1016/j.adhoc.2011.08.003</ee>
+  <url>db/journals/adhoc/adhoc10.html#AkbaniKR12</url>
+</article>
+<article mdate="2008-08-21" key="journals/adhoc/AkbaniKR08">
+  <author>Rehan Akbani</author>
+  <author>Turgay Korkmaz</author>
+  <author>G. V. S. Raju</author>
+  <title>HEAP: A packet authentication scheme for mobile ad hoc networks.</title>
+  <pages>1134-1150</pages>
+  <year>2008</year>
+  <volume>6</volume>
+  <journal>Ad Hoc Networks</journal>
+  <number>7</number>
+  <ee>http://dx.doi.org/10.1016/j.adhoc.2007.11.002</ee>
+  <url>db/journals/adhoc/adhoc6.html#AkbaniKR08</url>
+</article>
+<article mdate="2006-05-17" key="journals/bmcbi/RuanZ05">
+  <author>Jianhua Ruan</author>
+  <author>Weixiong Zhang</author>
+  <title>CAGER: classification analysis of gene expression regulation using multiple information sources.</title>
+  <pages>114</pages>
+  <year>2005</year>
+  <volume>6</volume>
+  <journal>BMC Bioinformatics</journal>
+  <ee>http://dx.doi.org/10.1186/1471-2105-6-114</ee>
+  <url>db/journals/bmcbi/bmcbi6.html#RuanZ05</url>
+</article>
+<article mdate="2010-07-01" key="journals/bmcbi/DeanHKR09">
+  <author>Angela K. Dean</author>
+  <author>Stephen E. Harris</author>
+  <author>Ivo Kalajzic</author>
+  <author>Jianhua Ruan</author>
+  <title>A systems biology approach to the identification and analysis of transcriptional regulatory networks in osteocytes.</title>
+  <pages>5</pages>
+  <year>2009</year>
+  <volume>10</volume>
+  <journal>BMC Bioinformatics</journal>
+  <number>S-9</number>
+  <ee>http://dx.doi.org/10.1186/1471-2105-10-S9-S5</ee>
+  <url>db/journals/bmcbi/bmcbi10S.html#DeanHKR09</url>
+</article>
+<article mdate="2013-01-04" key="journals/bmcbi/RuanPHLSS11">
+  <author>Jianhua Ruan</author>
+  <author>Joseph Perez</author>
+  <author>Brian Hernandez</author>
+  <author>Chengwei Lei</author>
+  <author>Garry Sunter</author>
+  <author>Valerie M. Sponsel</author>
+  <title>Systematic identification of functional modules and cis-regulatory elements in Arabidopsis thaliana.</title>
+  <pages>S2</pages>
+  <year>2011</year>
+  <volume>12</volume>
+  <journal>BMC Bioinformatics</journal>
+  <number>S-12</number>
+  <ee>http://dx.doi.org/10.1186/1471-2105-12-S12-S2</ee>
+  <url>db/journals/bmcbi/bmcbi12S.html#RuanPHLSS11</url>
+</article>
+<article mdate="2010-11-03" key="journals/ijcbdd/LeiR09">
+  <author>Chengwei Lei</author>
+  <author>Jianhua Ruan</author>
+  <title>A novel swarm intelligence algorithm for finding DNA motifs.</title>
+  <pages>323-339</pages>
+  <year>2009</year>
+  <volume>2</volume>
+  <journal>I. J.  Computational Biology and Drug Design</journal>
+  <number>4</number>
+  <ee>http://dx.doi.org/10.1504/IJCBDD.2009.030764</ee>
+  <url>db/journals/ijcbdd/ijcbdd2.html#LeiR09</url>
+</article>
+<article mdate="2013-06-12" key="journals/bmcgenomics/GaoZR13">
+  <author>Zhen Gao</author>
+  <author>Ruizhe Zhao</author>
+  <author>Jianhua Ruan</author>
+  <title>A genome-wide cis-regulatory element discovery method based on promoter sequences and gene co-expression networks.</title>
+  <pages>S4</pages>
+  <year>2013</year>
+  <volume>14</volume>
+  <journal>BMC Genomics</journal>
+  <number>S-1</number>
+  <ee>http://dx.doi.org/10.1186/1471-2164-14-S1-S4</ee>
+  <url>db/journals/bmcgenomics/bmcgenomics14S.html#GaoZR13</url>
+</article>
+<article mdate="2013-02-12" key="journals/bioinformatics/LeiR13">
+  <author>Chengwei Lei</author>
+  <author>Jianhua Ruan</author>
+  <title>A novel link prediction algorithm for reconstructing protein-protein interaction networks by topological similarity.</title>
+  <pages>355-364</pages>
+  <year>2013</year>
+  <volume>29</volume>
+  <journal>Bioinformatics</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1093/bioinformatics/bts688</ee>
+  <url>db/journals/bioinformatics/bioinformatics29.html#LeiR13</url>
+</article>
+<article mdate="2011-06-29" key="journals/bioinformatics/RuanSZ04">
+  <author>Jianhua Ruan</author>
+  <author>Gary D. Stormo</author>
+  <author>Weixiong Zhang</author>
+  <title>An Iterated loop matching approach to the prediction of RNA secondary structures with pseudoknots.</title>
+  <pages>58-66</pages>
+  <year>2004</year>
+  <volume>20</volume>
+  <journal>Bioinformatics</journal>
+  <number>1</number>
+  <url>db/journals/bioinformatics/bioinformatics20.html#RuanSZ04</url>
+  <ee>http://dx.doi.org/10.1093/bioinformatics/btg373</ee>
+</article>
+<article mdate="2005-09-12" key="journals/bioinformatics/ZhangRHYYQ05">
+  <author>Weixiong Zhang</author>
+  <author>Jianhua Ruan</author>
+  <author>Tuan-hua David Ho</author>
+  <author>Youngsook You</author>
+  <author>Taotao Yu</author>
+  <author>Ralph S. Quatrano</author>
+  <title>
+    <i>Cis</i>-regulatory element based targeted gene finding: genome-wide identification of abscisic acid- and abiotic stress-responsive genes in<i>Arabidopsis thaliana</i>.</title>
+  <pages>3074-3081</pages>
+  <year>2005</year>
+  <volume>21</volume>
+  <journal>Bioinformatics</journal>
+  <number>14</number>
+  <ee>http://dx.doi.org/10.1093/bioinformatics/bti490</ee>
+  <url>db/journals/bioinformatics/bioinformatics21.html#ZhangRHYYQ05</url>
+</article>
+<article mdate="2006-08-24" key="journals/bioinformatics/RuanZ06">
+  <author>Jianhua Ruan</author>
+  <author>Weixiong Zhang</author>
+  <title>A bi-dimensional regression tree approach to the modeling of gene expression regulation.</title>
+  <pages>332-340</pages>
+  <year>2006</year>
+  <volume>22</volume>
+  <journal>Bioinformatics</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1093/bioinformatics/bti792</ee>
+  <url>db/journals/bioinformatics/bioinformatics22.html#RuanZ06</url>
+</article>
+<article mdate="2012-03-07" key="journals/ploscb/ZhouRWZ07">
+  <author>Xuefeng Zhou</author>
+  <author>Jianhua Ruan</author>
+  <author>Guandong Wang</author>
+  <author>Weixiong Zhang</author>
+  <title>Characterization and Identification of MicroRNA Core Promoters in Four Model Species.</title>
+  <year>2007</year>
+  <volume>3</volume>
+  <journal>PLoS Computational Biology</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1371/journal.pcbi.0030037</ee>
+  <url>db/journals/ploscb/ploscb3.html#ZhouRWZ07</url>
+</article>
+<article mdate="2013-01-07" key="journals/biodatamining/LeiR10">
+  <author>Chengwei Lei</author>
+  <author>Jianhua Ruan</author>
+  <title>A particle swarm optimization-based algorithm for finding gapped motifs.</title>
+  <pages>9</pages>
+  <year>2010</year>
+  <volume>3</volume>
+  <journal>BioData Mining</journal>
+  <ee>http://dx.doi.org/10.1186/1756-0381-3-9</ee>
+  <url>db/journals/biodatamining/biodatamining3.html#LeiR10</url>
+</article>
+<article mdate="2012-04-16" key="journals/nar/RuanSZ04">
+  <author>Jianhua Ruan</author>
+  <author>Gary D. Stormo</author>
+  <author>Weixiong Zhang</author>
+  <title>ILM: a web server for predicting RNA secondary structures with pseudoknots.</title>
+  <pages>146-149</pages>
+  <year>2004</year>
+  <volume>32</volume>
+  <journal>Nucleic Acids Research</journal>
+  <number>Web-Server-Issue</number>
+  <url>db/journals/nar/nar32.html#RuanSZ04</url>
+  <ee>http://dx.doi.org/10.1093/nar/gkh444</ee>
+</article>
+<article mdate="2011-09-12" key="journals/jco/FuLZ11">
+  <author>Bin Fu</author>
+  <author>Angsheng Li</author>
+  <author>Liyu Zhang</author>
+  <title>Separating NE from some nonuniform nondeterministic complexity classes.</title>
+  <pages>482-493</pages>
+  <year>2011</year>
+  <volume>22</volume>
+  <journal>J. Comb. Optim.</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1007/s10878-010-9327-5</ee>
+  <url>db/journals/jco/jco22.html#FuLZ11</url>
+</article>
+<article mdate="2011-05-04" key="journals/ipl/Zhang11">
+  <author>Liyu Zhang</author>
+  <title>Proof system representations of degrees of disjoint NP-pairs.</title>
+  <pages>348-351</pages>
+  <year>2011</year>
+  <volume>111</volume>
+  <journal>Inf. Process. Lett.</journal>
+  <number>7</number>
+  <ee>http://dx.doi.org/10.1016/j.ipl.2011.01.001</ee>
+  <url>db/journals/ipl/ipl111.html#Zhang11</url>
+</article>
+<article mdate="2011-12-07" key="journals/eccc/ECCC-TR05-068" publtype="informal publication">
+  <author>Christian Glaßer</author>
+  <author>Aduri Pavan</author>
+  <author>Alan L. Selman</author>
+  <author>Liyu Zhang</author>
+  <title>Redundancy in Complete Sets</title>
+  <journal>Electronic Colloquium on Computational Complexity (ECCC)</journal>
+  <year>2005</year>
+  <number>068</number>
+  <url>db/journals/eccc/eccc12.html#TR05-068</url>
+  <ee>http://eccc.hpi-web.de/eccc-reports/2005/TR05-068/index.html</ee>
+</article>
+<article mdate="2011-12-07" key="journals/eccc/GlasserSZ07" publtype="informal publication">
+  <author>Christian Glaßer</author>
+  <author>Alan L. Selman</author>
+  <author>Liyu Zhang</author>
+  <title>The Informational Content of Canonical Disjoint NP-Pairs.</title>
+  <year>2007</year>
+  <volume>14</volume>
+  <journal>Electronic Colloquium on Computational Complexity (ECCC)</journal>
+  <ee>http://eccc.hpi-web.de/eccc-reports/2007/TR07-018/index.html</ee>
+  <number>018</number>
+  <url>db/journals/eccc/eccc14.html#GlasserSZ07</url>
+</article>
+<article mdate="2011-12-07" key="journals/eccc/GlasserSTZ06" publtype="informal publication">
+  <author>Christian Glaßer</author>
+  <author>Alan L. Selman</author>
+  <author>Stephen D. Travers</author>
+  <author>Liyu Zhang</author>
+  <title>Non-Mitotic Sets.</title>
+  <year>2006</year>
+  <volume>13</volume>
+  <journal>Electronic Colloquium on Computational Complexity (ECCC)</journal>
+  <ee>http://eccc.hpi-web.de/eccc-reports/2006/TR06-090/index.html</ee>
+  <number>090</number>
+  <url>db/journals/eccc/eccc13.html#GlasserSTZ06</url>
+</article>
+<article mdate="2011-12-07" key="journals/eccc/ECCC-TR05-072" publtype="informal publication">
+  <author>Christian Glaßer</author>
+  <author>Alan L. Selman</author>
+  <author>Liyu Zhang</author>
+  <title>Survey of Disjoint NP-Pairs and Relations to Propositional Proof Systems</title>
+  <journal>Electronic Colloquium on Computational Complexity (ECCC)</journal>
+  <year>2005</year>
+  <number>072</number>
+  <url>db/journals/eccc/eccc12.html#TR05-072</url>
+  <ee>http://eccc.hpi-web.de/eccc-reports/2005/TR05-072/index.html</ee>
+</article>
+<article mdate="2011-12-07" key="journals/eccc/ECCC-TR03-011" publtype="informal publication">
+  <author>Christian Glaßer</author>
+  <author>Alan L. Selman</author>
+  <author>Samik Sengupta</author>
+  <author>Liyu Zhang</author>
+  <title>Disjoint NP-Pairs</title>
+  <journal>Electronic Colloquium on Computational Complexity (ECCC)</journal>
+  <year>2003</year>
+  <number>011</number>
+  <volume>10</volume>
+  <url>db/journals/eccc/eccc10.html#ECCC-TR03-011</url>
+  <ee>http://eccc.hpi-web.de/eccc-reports/2003/TR03-011/index.html</ee>
+</article>
+<article mdate="2011-12-07" key="journals/eccc/ECCC-TR05-011" publtype="informal publication">
+  <author>Christian Glaßer</author>
+  <author>Mitsunori Ogihara</author>
+  <author>Aduri Pavan</author>
+  <author>Alan L. Selman</author>
+  <author>Liyu Zhang</author>
+  <title>Autoreducibility, Mitoticity, and Immunity</title>
+  <journal>Electronic Colloquium on Computational Complexity (ECCC)</journal>
+  <year>2005</year>
+  <number>011</number>
+  <url>db/journals/eccc/eccc12.html#TR05-011</url>
+  <ee>http://eccc.hpi-web.de/eccc-reports/2005/TR05-011/index.html</ee>
+</article>
+<article mdate="2011-12-07" key="journals/eccc/ECCC-TR04-106" publtype="informal publication">
+  <author>Christian Glaßer</author>
+  <author>Alan L. Selman</author>
+  <author>Liyu Zhang</author>
+  <title>Canonical Disjoint NP-Pairs of Propositional Proof Systems</title>
+  <journal>Electronic Colloquium on Computational Complexity (ECCC)</journal>
+  <year>2004</year>
+  <number>106</number>
+  <url>db/journals/eccc/eccc11.html#TR04-106</url>
+  <ee>http://eccc.hpi-web.de/eccc-reports/2004/TR04-106/index.html</ee>
+</article>
+<article mdate="2007-02-26" key="journals/tcs/GlasserSZ07">
+  <author>Christian Glaßer</author>
+  <author>Alan L. Selman</author>
+  <author>Liyu Zhang</author>
+  <title>Canonical disjoint NP-pairs of propositional proof systems.</title>
+  <pages>60-73</pages>
+  <year>2007</year>
+  <volume>370</volume>
+  <journal>Theor. Comput. Sci.</journal>
+  <number>1-3</number>
+  <ee>http://dx.doi.org/10.1016/j.tcs.2006.10.006</ee>
+  <url>db/journals/tcs/tcs370.html#GlasserSZ07</url>
+</article>
+<article mdate="2009-04-19" key="journals/tcs/GlasserSTZ09">
+  <author>Christian Glaßer</author>
+  <author>Alan L. Selman</author>
+  <author>Stephen D. Travers</author>
+  <author>Liyu Zhang</author>
+  <title>Non-mitotic sets.</title>
+  <pages>2011-2023</pages>
+  <year>2009</year>
+  <volume>410</volume>
+  <journal>Theor. Comput. Sci.</journal>
+  <number>21-23</number>
+  <ee>http://dx.doi.org/10.1016/j.tcs.2008.12.043</ee>
+  <url>db/journals/tcs/tcs410.html#GlasserSTZ09</url>
+</article>
+<article mdate="2009-07-02" key="journals/ijfcs/GlasserSZ09">
+  <author>Christian Glaßer</author>
+  <author>Alan L. Selman</author>
+  <author>Liyu Zhang</author>
+  <title>The Informational Content of Canonical Disjoint NP-Pairs.</title>
+  <pages>501-522</pages>
+  <year>2009</year>
+  <volume>20</volume>
+  <journal>Int. J. Found. Comput. Sci.</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1142/S012905410900670X</ee>
+  <url>db/journals/ijfcs/ijfcs20.html#GlasserSZ09</url>
+</article>
+<article mdate="2007-09-21" key="journals/jcss/GlasserOPSZ07">
+  <author>Christian Glaßer</author>
+  <author>Mitsunori Ogihara</author>
+  <author>Aduri Pavan</author>
+  <author>Alan L. Selman</author>
+  <author>Liyu Zhang</author>
+  <title>Autoreducibility, mitoticity, and immunity.</title>
+  <pages>735-754</pages>
+  <year>2007</year>
+  <volume>73</volume>
+  <journal>J. Comput. Syst. Sci.</journal>
+  <number>5</number>
+  <ee>http://dx.doi.org/10.1016/j.jcss.2006.10.020</ee>
+  <url>db/journals/jcss/jcss73.html#GlasserOPSZ07</url>
+</article>
+<article mdate="2011-09-12" key="journals/siamcomp/GlasserSSZ04">
+  <author>Christian Glaßer</author>
+  <author>Alan L. Selman</author>
+  <author>Samik Sengupta</author>
+  <author>Liyu Zhang</author>
+  <title>Disjoint NP-Pairs.</title>
+  <pages>1369-1416</pages>
+  <year>2004</year>
+  <volume>33</volume>
+  <journal>SIAM J. Comput.</journal>
+  <number>6</number>
+  <ee>http://dx.doi.org/10.1137/S0097539703425848</ee>
+  <url>db/journals/siamcomp/siamcomp33.html#GlasserSSZ04</url>
+</article>
+<article mdate="2008-06-20" key="journals/siamcomp/GlasserPSZ08">
+  <author>Christian Glaßer</author>
+  <author>Aduri Pavan</author>
+  <author>Alan L. Selman</author>
+  <author>Liyu Zhang</author>
+  <title>Splitting NP-Complete Sets.</title>
+  <pages>1517-1535</pages>
+  <year>2008</year>
+  <volume>37</volume>
+  <journal>SIAM J. Comput.</journal>
+  <number>5</number>
+  <ee>http://dx.doi.org/10.1137/060673886</ee>
+  <url>db/journals/siamcomp/siamcomp37.html#GlasserPSZ08</url>
+</article>
+<article mdate="2011-03-01" key="journals/ejasp/PandyaYJEL06">
+  <author>Saunvit Dinesh Pandya</author>
+  <author>Yingchen Yang</author>
+  <author>Douglas L. Jones</author>
+  <author>Jonathan Engel</author>
+  <author>Chang Liu</author>
+  <title>Multisensor Processing Algorithms for Underwater Dipole Localization and Tracking Using MEMS Artificial Lateral-Line Sensors.</title>
+  <year>2006</year>
+  <volume>2006</volume>
+  <journal>EURASIP J. Adv. Sig. Proc.</journal>
+  <ee>http://dx.doi.org/10.1155/ASP/2006/76593</ee>
+  <url>db/journals/ejasp/ejasp2006.html#PandyaYJEL06</url>
+</article>
+<article mdate="2011-02-28" key="journals/ejasp/NguyenJYL11">
+  <author>Nam H. Nguyen</author>
+  <author>Douglas L. Jones</author>
+  <author>Yingchen Yang</author>
+  <author>Chang Liu</author>
+  <title>Flow Vision for Autonomous Underwater Vehicles via an Artificial Lateral Line.</title>
+  <year>2011</year>
+  <volume>2011</volume>
+  <journal>EURASIP J. Adv. Sig. Proc.</journal>
+  <ee>http://dx.doi.org/10.1155/2011/806406</ee>
+  <url>db/journals/ejasp/ejasp2011.html#NguyenJYL11</url>
+</article>
+<article mdate="2005-03-15" key="journals/scp/LeavensCCRC05">
+  <author>Gary T. Leavens</author>
+  <author>Yoonsik Cheon</author>
+  <author>Curtis Clifton</author>
+  <author>Clyde Ruby</author>
+  <author>David R. Cok</author>
+  <title>How the design of JML accommodates both runtime assertion checking and formal verification.</title>
+  <pages>185-208</pages>
+  <year>2005</year>
+  <volume>55</volume>
+  <journal>Sci. Comput. Program.</journal>
+  <number>1-3</number>
+  <ee>http://dx.doi.org/10.1016/j.scico.2004.05.015</ee>
+  <url>db/journals/scp/scp55.html#LeavensCCRC05</url>
+</article>
+<article mdate="2002-01-03" key="journals/joop/CheonL94">
+  <author>Yoonsik Cheon</author>
+  <author>Gary T. Leavens</author>
+  <title>A Quick Overview of Larch/C++.</title>
+  <pages>39-49</pages>
+  <year>1994</year>
+  <volume>7</volume>
+  <journal>JOOP</journal>
+  <number>6</number>
+  <url>db/journals/joop/joop7.html#CheonL94</url>
+</article>
+<article mdate="2008-05-07" key="journals/spe/CheonLSE05">
+  <author>Yoonsik Cheon</author>
+  <author>Gary T. Leavens</author>
+  <author>Murali Sitaraman</author>
+  <author>Stephen H. Edwards</author>
+  <title>Model variables: cleanly supporting abstraction in design by contract.</title>
+  <pages>583-599</pages>
+  <year>2005</year>
+  <volume>35</volume>
+  <journal>Softw., Pract. Exper.</journal>
+  <number>6</number>
+  <ee>http://dx.doi.org/10.1002/spe.649</ee>
+  <url>db/journals/spe/spe35.html#CheonLSE05</url>
+</article>
+<article mdate="2011-06-21" key="journals/entcs/BurdyCCEKLLP03">
+  <author>Lilian Burdy</author>
+  <author>Yoonsik Cheon</author>
+  <author>David R. Cok</author>
+  <author>Michael D. Ernst</author>
+  <author>Joseph Kiniry</author>
+  <author>Gary T. Leavens</author>
+  <author>K. Rustan M. Leino</author>
+  <author>Erik Poll</author>
+  <title>An overview of JML tools and applications.</title>
+  <year>2003</year>
+  <volume>80</volume>
+  <journal>Electr. Notes Theor. Comput. Sci.</journal>
+  <ee>http://dx.doi.org/10.1016/S1571-0661(04)80810-7</ee>
+  <url>db/journals/entcs/entcs80.html#BurdyCCEKLLP03</url>
+  <pages>75-91</pages>
+</article>
+<article mdate="2003-11-26" key="journals/tosem/CheonL94">
+  <author>Yoonsik Cheon</author>
+  <author>Gary T. Leavens</author>
+  <title>The Larch/Smalltalk Interface Specification Language.</title>
+  <pages>221-253</pages>
+  <year>1994</year>
+  <volume>3</volume>
+  <journal>ACM Trans. Softw. Eng. Methodol.</journal>
+  <number>3</number>
+  <url>db/journals/tosem/tosem3.html#CheonL94</url>
+  <ee>http://doi.acm.org/10.1145/196092.195325</ee>
+</article>
+<article mdate="2007-11-04" key="journals/sqj/CheonP07">
+  <author>Yoonsik Cheon</author>
+  <author>Ashaveena Perumandla</author>
+  <title>Specifying and checking method call sequences of Java programs.</title>
+  <pages>7-25</pages>
+  <year>2007</year>
+  <volume>15</volume>
+  <journal>Software Quality Journal</journal>
+  <number>1</number>
+  <ee>http://dx.doi.org/10.1007/s11219-006-9001-4</ee>
+  <url>db/journals/sqj/sqj15.html#CheonP07</url>
+</article>
+<article mdate="2005-08-08" key="journals/sttt/BurdyCCEKLLP05">
+  <author>Lilian Burdy</author>
+  <author>Yoonsik Cheon</author>
+  <author>David R. Cok</author>
+  <author>Michael D. Ernst</author>
+  <author>Joseph R. Kiniry</author>
+  <author>Gary T. Leavens</author>
+  <author>K. Rustan M. Leino</author>
+  <author>Erik Poll</author>
+  <title>An overview of JML tools and applications.</title>
+  <pages>212-232</pages>
+  <year>2005</year>
+  <volume>7</volume>
+  <journal>STTT</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1007/s10009-004-0167-4</ee>
+  <url>db/journals/sttt/sttt7.html#BurdyCCEKLLP05</url>
+</article>
+<article mdate="2004-07-26" key="journals/rc/CeberioK04">
+  <author>Martine Ceberio</author>
+  <author>Vladik Kreinovich</author>
+  <title>Fast Multiplication of Interval Matrices (Interval Version of Strassen's Algorithm).</title>
+  <pages>241-243</pages>
+  <year>2004</year>
+  <volume>10</volume>
+  <journal>Reliable Computing</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1023/B:REOM.0000032111.16328.b2</ee>
+  <url>db/journals/rc/rc10.html#CeberioK04</url>
+</article>
+<article mdate="2006-07-17" key="journals/rc/CeberioKR05">
+  <author>Martine Ceberio</author>
+  <author>Vladik Kreinovich</author>
+  <author>Michel Rueher</author>
+  <title>Reliable Computations and Their Applications (RCA) Track.</title>
+  <pages>499-503</pages>
+  <year>2005</year>
+  <volume>11</volume>
+  <journal>Reliable Computing</journal>
+  <number>6</number>
+  <ee>http://dx.doi.org/10.1007/s11155-005-0408-6</ee>
+  <url>db/journals/rc/rc11.html#CeberioKR05</url>
+</article>
+<article mdate="2007-03-27" key="journals/rc/KreinovichXSLCABKNTH06">
+  <author>Vladik Kreinovich</author>
+  <author>Gang Xiang</author>
+  <author>Scott A. Starks</author>
+  <author>Luc Longpré</author>
+  <author>Martine Ceberio</author>
+  <author>Roberto Araiza</author>
+  <author>Jan Beck</author>
+  <author>Raj Kandathi</author>
+  <author>Asis Nayak</author>
+  <author>Roberto Torres</author>
+  <author>Janos G. Hajagos</author>
+  <title>Towards Combining Probabilistic and Interval Uncertainty in Engineering Calculations: Algorithms for Computing Statistics under Interval Uncertainty, and Their Computational Complexity.</title>
+  <pages>471-501</pages>
+  <year>2006</year>
+  <volume>12</volume>
+  <journal>Reliable Computing</journal>
+  <number>6</number>
+  <ee>http://dx.doi.org/10.1007/s11155-006-9015-4</ee>
+  <url>db/journals/rc/rc12.html#KreinovichXSLCABKNTH06</url>
+</article>
+<article mdate="2008-03-31" key="journals/rc/XiangCK07">
+  <author>Gang Xiang</author>
+  <author>Martine Ceberio</author>
+  <author>Vladik Kreinovich</author>
+  <title>Computing Population Variance and Entropy under Interval Uncertainty: Linear-Time Algorithms.</title>
+  <pages>467-488</pages>
+  <year>2007</year>
+  <volume>13</volume>
+  <journal>Reliable Computing</journal>
+  <number>6</number>
+  <ee>http://dx.doi.org/10.1007/s11155-007-9045-6</ee>
+  <url>db/journals/rc/rc13.html#XiangCK07</url>
+</article>
+<article mdate="2005-03-14" key="journals/computing/CeberioG02">
+  <author>Martine Ceberio</author>
+  <author>Laurent Granvilliers</author>
+  <title>Horner's Rule for Interval Evaluation Revisited.</title>
+  <pages>51-81</pages>
+  <year>2002</year>
+  <volume>69</volume>
+  <number>1</number>
+  <journal>Computing</journal>
+  <ee>http://www.link.springer.de/link/service/journals/00607/bibs/2069001/20690051.htm</ee>
+  <url>db/journals/computing/computing69.html#CeberioG02</url>
+</article>
+<article mdate="2008-03-05" key="journals/cor/PedamalluOC08">
+  <author>Chandra Sekhar Pedamallu</author>
+  <author>Linet Özdamar</author>
+  <author>Martine Ceberio</author>
+  <title>Efficient interval partitioning - Local search collaboration for constraint satisfaction.</title>
+  <pages>1412-1435</pages>
+  <year>2008</year>
+  <volume>35</volume>
+  <journal>Computers &amp; OR</journal>
+  <number>5</number>
+  <ee>http://dx.doi.org/10.1016/j.cor.2006.08.003</ee>
+  <url>db/journals/cor/cor35.html#PedamalluOC08</url>
+</article>
+<article mdate="2008-02-14" key="journals/ijar/BerleantCXK07">
+  <author>Daniel Berleant</author>
+  <author>Martine Ceberio</author>
+  <author>Gang Xiang</author>
+  <author>Vladik Kreinovich</author>
+  <title>Towards adding probabilities and correlations to interval computations.</title>
+  <pages>499-510</pages>
+  <year>2007</year>
+  <volume>46</volume>
+  <journal>Int. J. Approx. Reasoning</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1016/j.ijar.2007.01.002</ee>
+  <url>db/journals/ijar/ijar46.html#BerleantCXK07</url>
+</article>
+<article mdate="2011-01-26" key="journals/ijaec/GomezF10">
+  <author>Juan Carlos Gomez</author>
+  <author>Olac Fuentes</author>
+  <title>Using Evolution Strategies to Perform Stellar Population Synthesis for Galaxy Spectra from SDSS.</title>
+  <pages>23-33</pages>
+  <year>2010</year>
+  <volume>1</volume>
+  <journal>IJAEC</journal>
+  <number>4</number>
+  <ee>http://dx.doi.org/10.4018/jaec.2010100102</ee>
+  <url>db/journals/ijaec/ijaec1.html#GomezF10</url>
+</article>
+<article mdate="2008-07-07" key="journals/ijait/GutsteinFF08">
+  <author>Steven Gutstein</author>
+  <author>Olac Fuentes</author>
+  <author>Eric Freudenthal</author>
+  <title>Knowledge Transfer in Deep convolutional Neural Nets.</title>
+  <pages>555-567</pages>
+  <year>2008</year>
+  <volume>17</volume>
+  <journal>International Journal on Artificial Intelligence Tools</journal>
+  <number>3</number>
+  <ee>http://dx.doi.org/10.1142/S0218213008004059</ee>
+  <url>db/journals/ijait/ijait17.html#GutsteinFF08</url>
+</article>
+<article mdate="2011-05-26" key="journals/ml/RaoF98">
+  <author>Rajesh P. N. Rao</author>
+  <author>Olac Fuentes</author>
+  <title>Hierarchical Learning of Navigational Behaviors in an Autonomous Robot using a Predictive Sparse Distributed Memory.</title>
+  <pages>87-113</pages>
+  <year>1998</year>
+  <volume>31</volume>
+  <journal>Machine Learning</journal>
+  <number>1-3</number>
+  <url>db/journals/ml/ml31.html#RaoF98</url>
+  <ee>http://dx.doi.org/10.1023/A:1007492624519</ee>
+</article>
+<article mdate="2011-05-26" key="journals/ml/FuentesN98">
+  <author>Olac Fuentes</author>
+  <author>Randal C. Nelson</author>
+  <title>Learning Dextrous Manipulation Skills for Multifingered Robot Hands Using the Evolution Strategy.</title>
+  <pages>223-237</pages>
+  <year>1998</year>
+  <volume>31</volume>
+  <journal>Machine Learning</journal>
+  <number>1-3</number>
+  <url>db/journals/ml/ml31.html#FuentesN98</url>
+  <ee>http://dx.doi.org/10.1023/A:1007409228154</ee>
+</article>
+<article mdate="2013-04-05" key="journals/cys/MartinezF03">
+  <author>Carmen Martínez</author>
+  <author>Olac Fuentes</author>
+  <title>Face Recognition Using Unlabeled Data.</title>
+  <year>2003</year>
+  <volume>7</volume>
+  <journal>Computación y Sistemas</journal>
+  <number>2</number>
+  <ee>http://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/1056</ee>
+  <url>db/journals/cys/cys7.html#MartinezF03</url>
+</article>
+<article mdate="2011-05-19" key="journals/arobots/RaoF98">
+  <author>Rajesh P. N. Rao</author>
+  <author>Olac Fuentes</author>
+  <title>Hierarchical Learning of Navigational Behaviors in an Autonomous Robot using a Predictive Sparse Distributed Memory.</title>
+  <pages>297-316</pages>
+  <year>1998</year>
+  <volume>5</volume>
+  <journal>Auton. Robots</journal>
+  <number>3-4</number>
+  <url>db/journals/arobots/arobots5.html#RaoF98</url>
+  <ee>http://dx.doi.org/10.1023/A:1008810406347</ee>
+</article>
+<article mdate="2011-05-19" key="journals/arobots/FuentesN98">
+  <author>Olac Fuentes</author>
+  <author>Randal C. Nelson</author>
+  <title>Learning Dextrous Manipulation Skills for Multifingered Robot Hands Using the Evolution Strategy.</title>
+  <pages>395-405</pages>
+  <year>1998</year>
+  <volume>5</volume>
+  <journal>Auton. Robots</journal>
+  <number>3-4</number>
+  <url>db/journals/arobots/arobots5.html#FuentesN98</url>
+  <ee>http://dx.doi.org/10.1023/A:1008822709073</ee>
+</article>
+<article mdate="2009-03-09" key="journals/ivc/Malagon-BorjaF09">
+  <author>Luis Malagón-Borja</author>
+  <author>Olac Fuentes</author>
+  <title>Object detection using image reconstruction with PCA.</title>
+  <pages>2-9</pages>
+  <year>2009</year>
+  <volume>27</volume>
+  <journal>Image Vision Comput.</journal>
+  <number>1-2</number>
+  <ee>http://dx.doi.org/10.1016/j.imavis.2007.03.004</ee>
+  <url>db/journals/ivc/ivc27.html#Malagon-BorjaF09</url>
+</article>
+<article mdate="2010-12-03" key="journals/sigmetrics/EstradaFT08">
+  <author>Trilce Estrada</author>
+  <author>Olac Fuentes</author>
+  <author>Michela Taufer</author>
+  <title>A distributed evolutionary method to design scheduling policies for volunteer computing.</title>
+  <pages>40-49</pages>
+  <year>2008</year>
+  <volume>36</volume>
+  <journal>SIGMETRICS Performance Evaluation Review</journal>
+  <number>3</number>
+  <ee>http://doi.acm.org/10.1145/1481506.1481515</ee>
+  <url>db/journals/sigmetrics/sigmetrics36.html#EstradaFT08</url>
+</article>
+</dblp>
